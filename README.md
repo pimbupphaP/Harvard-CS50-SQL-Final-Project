@@ -1,4 +1,4 @@
-This repository is the Final Project submitted to HarvardX's CS50's Introduction to Databases with SQL course in September 2026. You can view my Verified Certificate [here](https://courses.edx.org/certificates/8e243f06fe7e4142b05b4e3edea9c142?_gl=1*5jq8xl*_gcl_au*MjI1NTk4NDcuMTc5NTEwNDcyOQ..*_ga*MTg2ODQ3NTE1Ny4xNzk1MTA0NzI5*_ga_D3KS4KMDT0*czE3OTUxMDQ3MjkkbzEkZzEkdDE3OTUxMDQ3NDckajQyJGwwJGgw).
+This repository is the Final Project submitted to HarvardX's 'CS50's Introduction to Databases with SQL' course in September 2026. You can view my Verified Certificate [here](https://courses.edx.org/certificates/8e243f06fe7e4142b05b4e3edea9c142?_gl=1*5jq8xl*_gcl_au*MjI1NTk4NDcuMTc5NTEwNDcyOQ..*_ga*MTg2ODQ3NTE1Ny4xNzk1MTA0NzI5*_ga_D3KS4KMDT0*czE3OTUxMDQ3MjkkbzEkZzEkdDE3OTUxMDQ3NDckajQyJGwwJGgw).
 
 While I am unable to share the solutions I have completed for each problem set of the course, you can browse through the course and its contents [here](https://cs50.harvard.edu/sql/). The course covers the following introductory SQL skills and concepts:
 - Querying
